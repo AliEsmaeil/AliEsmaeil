@@ -6,7 +6,7 @@ Currently i'm learning Design Patterns, and different architectural design patte
 
 I'm trying to be Regularly active on Stackoverflow SO, to provide help to other people and seeking help when needed. You can reach me there.
 
-[![Ali Esmaeil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Ali Esmaeil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali Esmaeil)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
