@@ -13,5 +13,5 @@ I'm trying to be Regularly active on Stackoverflow SO, to provide help to other 
 * Data Presistence For Mobile Apps (SharedPreferences, Hive, SQLite), SQL DBs, NOSQL DBs (Mongo DB).
 * Flutter, Google Maps, Firebase, Rest APIs , Responsive Design, Postman, JAVAFX, SceneBuilder.  
 
-[![Ali Esmaeil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliEsmaeil)](https://github.com/anuraghazra/github-readme-stats)
+[![Ali Esmaeil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliEsmaeil)]
 
