@@ -11,7 +11,11 @@ I'm trying to be Regularly active on Stackoverflow SO, to provide help to other 
 * Programming Languages : C, CPP, Java, php, Dart and Kotlin on the way.
 * OOP paradigm, DSA, SOLID Principles, Design Patterns (Creational, Structural , Behavioral) and architectural like Clean Architecture MVVM on the way.
 * Data Presistence For Mobile Apps (SharedPreferences, Hive, SQLite), SQL DBs, NOSQL DBs (Mongo DB).
-* Flutter, Google Maps, Firebase, Rest APIs , Responsive Design, Postman, JAVAFX, SceneBuilder.  
+* Flutter, Google Maps, Firebase, Rest APIs , Responsive Design, Postman, JAVAFX, SceneBuilder.
+
+#### Education
+* Currentrly I'm in **Digital Egyptian Builders Initiative (DEPI)** Scholarshiip for six months.
+* Computer Science Bachelor's degree from **Faculty of Computers and Information** Menofia University
 
 [![Ali Esmaeil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliEsmaeil)]
 
