@@ -6,7 +6,7 @@ Currently i'm learning Design Patterns, and different architectural design patte
 
 I'm trying to be Regularly active on Stackoverflow SO, to provide help to other people and seeking help when needed. You can reach me there.
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=23178611)](https://stackoverflow.com/users/6558042/omid-nikrah)
+<a href="https://stackexchange.com/users/30244630"><img src="https://stackexchange.com/users/flair/30244630.png" width="208" height="58" alt="profile for A-E on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for A-E on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliEsmaeil)](https://github.com/anuraghazra/github-readme-stats)
 
