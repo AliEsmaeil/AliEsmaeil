@@ -17,6 +17,9 @@ I'm trying to be Regularly active on Stackoverflow SO, to provide help to other 
 #### Education
 * Currentrly I'm in **Digital Egyptian Builders Initiative (DEPI)** Scholarshiip for six months.
 * Computer Science Bachelor's degree from **Faculty of Computers and Information** Menofia University
+___________________________________________________________________________________________________________________________________________________________________
+Reach me on:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' height='20'>](https://stackoverflow.com/users/23178611/a-e?tab=profile) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/a-e-68230b2b6/)   
 
 [![Ali Esmaeil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliEsmaeil)](https://github.com/AliEsmaeil/github-readme-stats)
 
