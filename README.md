@@ -1,6 +1,6 @@
 ### Hello,
 
-This's Ali Esmaeil, I'm interested in mobile application development specially using flutter framework, i have done some of projects they are waiting to get published publically here.
+This's **Ali Esmaeil**, I'm interested in mobile application development specially using flutter framework, i have done some of projects they are waiting to get published publically here.
 
 Currently i'm learning Design Patterns, and different architectural design patterns like clean Architecture and MVVM.
 
