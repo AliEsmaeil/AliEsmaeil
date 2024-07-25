@@ -1,4 +1,4 @@
-### Hello, I hope you are doing great
+### Hello,
 
 This's Ali Esmaeil, I'm interested in mobile application development specially using flutter framework, i have done some of projects they are waiting to get published publically here.
 
