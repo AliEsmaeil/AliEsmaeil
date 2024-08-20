@@ -21,5 +21,4 @@ ________________________________________________________________________________
 Reach me on:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' height='20'>](https://stackoverflow.com/users/23178611/a-e?tab=profile) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/a-e-68230b2b6/)   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliEsmaeil)
-
+<img src="https://github-readme-stats.vercel.app/api?username=AliEsmaeil" alt="My Status" width="40%" height="200" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliEsmaeil" alt="Currently, Big Fan of" width="60%" height="200"  />
