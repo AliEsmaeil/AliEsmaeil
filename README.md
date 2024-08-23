@@ -19,6 +19,9 @@ I'm trying to be Regularly active on Stackoverflow (SO), to provide help to othe
 * Computer Science Bachelor's degree from **Faculty of Computers and Information** Menofia University
 ___________________________________________________________________________________________________________________________________________________________________
 Reach me on:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' height='20'>](https://stackoverflow.com/users/23178611/a-e?tab=profile) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/a-e-68230b2b6/)   
+
+<a href="https://stackoverflow.com/users/23178611/a-e?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23178611" height="30" width="40" /></a><a href="https://linkedin.com/in/a-e-68230b2b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-e-68230b2b6" height="30" width="40" /></a><a href="https://x.com/AliEsmaeil35313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali esmaeil" height="30" width="40" /></a>
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=AliEsmaeil" alt="My Status" width="40%" height="200" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliEsmaeil&layout=compact&hide=cmake" alt="Currently, Big Fan of" width="60%" height="190" />
