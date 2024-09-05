@@ -10,7 +10,7 @@ I'm trying to be Regularly active on Stackoverflow (SO), to provide help to othe
 #### Skills
 * Programming Languages : `C`, `CPP`, `Java`, `php`, `Dart` and `Kotlin` on the way.
 * `OOP` paradigm, `DSA`, `SOLID Principles`, `Design Patterns` (Creational, Structural , Behavioral) and architectural like `Clean Architecture` and `MVVM` on the way.
-* Data Persistence For Mobile Apps (`Shared Preferences`, `Hive`, `SQLite`), `SQL DBs`, NOSQL DBs (`Mongo DB`).
+* Data Persistence For Mobile Apps (`Shared Preferences`,`Secure Storage` `Hive`, `SQLite`), and Generally `SQL DBs`, NOSQL DBs (`Mongo DB`).
 * `Flutter`, `Google Maps`, `Firebase`, `Rest APIs` , `Responsive Design`, `Postman`, `JAVAFX`, `SceneBuilder`.
 * State Management : `Cubit`, `BLoC` is on the way.
 
