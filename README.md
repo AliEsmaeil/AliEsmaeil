@@ -24,4 +24,6 @@ Reach me on:
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=AliEsmaeil" alt="My Status" width="40%" height="200" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliEsmaeil&layout=compact&hide=cmake" alt="Currently, Big Fan of" width="60%" height="190" />
+<img src="https://github-readme-stats.vercel.app/api?username=AliEsmaeil" alt="My Status"  />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliEsmaeil&layout=compact&hide=cmake" alt="Currently, Big Fan of" />
