@@ -25,6 +25,6 @@ Reach me on:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=AliEsmaeil&count_private=true&show_icons=true&hide_rank=true&cache_seconds=1800&theme=default&include_all_commits=true" />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliEsmaeil)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliEsmaeil&layout=compact&hide=cmake" alt="Currently, Big Fan of" />
