@@ -24,7 +24,7 @@ Reach me on:
 <a href="https://stackoverflow.com/users/23178611/a-e?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23178611" height="30" width="40" /></a><a href="https://linkedin.com/in/a-e-68230b2b6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-e-68230b2b6" height="30" width="40" /></a><a href="https://x.com/AliEsmaeil35313" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali esmaeil" height="30" width="40" /></a><a href="https://wuzzuf.net/me/Ali-Esmaeil-382ffe5b43" target="_blank"><img align="center" src="https://maharatech.gov.eg/theme/edumy/pix/wuzzuf/iconWuzzuf.png" alt="ali esmaeil" height="30" width="60" /></a>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=AliEsmaeil&count_private=true&show_icons=true&hide_rank=true&cache_seconds=1800&theme=default&include_all_commits=true" />
-[(https://github-readme-stats.vercel.app/api?username=AliEsmaeil)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=AliEsmaeil&count_private=true&show_icons=true&hide_rank=false&cache_seconds=1800&theme=default&include_all_commits=true" />
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliEsmaeil&layout=compact&hide=cmake" alt="Currently, Big Fan of" />
