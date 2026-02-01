@@ -67,7 +67,7 @@ I try to stay **regularly active on Stack Overflow**, helping other developers w
 ## Contact
 
 <p align="left">
-  <a href="https://stackoverflow.com/users/23178611/a-e" target="_blank">
+  <a href="https://stackoverflow.com/users/23178611/a-e?tab=profile" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/a-e-68230b2b6" target="_blank">
