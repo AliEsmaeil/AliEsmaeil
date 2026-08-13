@@ -67,16 +67,33 @@ I try to stay **regularly active on Stack Overflow**, helping other developers w
 ## Contact
 
 <p align="left">
+  <!-- Portfolio -->
+  <a href="https://ali-esmaeil.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <!-- LinkedIn -->
+
+  <a href="https://www.linkedin.com/in/ali-esmaeil1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Esmaeil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Stack Overflow -->
+
   <a href="https://stackoverflow.com/users/23178611/a-e?tab=profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://linkedin.com/in/a-e-68230b2b6" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
+
+  <!-- X -->
+
   <a href="https://x.com/AliEsmaeil35313" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/X-@AliEsmaeil35313-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+
+  <!-- Wuzzuf -->
+
   <a href="https://wuzzuf.net/me/Ali-Esmaeil-382ffe5b43" target="_blank">
-    <img src="https://maharatech.gov.eg/theme/edumy/pix/wuzzuf/iconWuzzuf.png" height="30" width="60" />
+    <img src="https://img.shields.io/badge/Wuzzuf-Profile-1E88E5?style=for-the-badge" alt="Wuzzuf" />
   </a>
 </p>
+
