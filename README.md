@@ -34,7 +34,7 @@ I try to stay **regularly active on Stack Overflow**, helping other developers w
 `C` · `C++` · `Java` · `PHP` · `Dart`
 
 ### Core Concepts
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP) and Object-Oriented Design (OOD)
 - Data Structures and Algorithms (DSA)
 - SOLID principles
 - Design Patterns (Creational, Structural, Behavioral)
