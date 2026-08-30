@@ -17,7 +17,6 @@ I try to stay **regularly active on Stack Overflow**, helping other developers w
   <img src="https://stackexchange.com/users/flair/30244630.png" width="208" height="58" alt="Stack Overflow profile" />
 </a>
 
-
 ---
 
 ## Current Focus
@@ -28,10 +27,6 @@ I try to stay **regularly active on Stack Overflow**, helping other developers w
 
 ---
 
-## Skills
-
-### Programming Languages
-`C` · `C++` · `Java` · `PHP` · `Dart`
 
 ### Core Concepts
 - Object-Oriented Programming (OOP) and Object-Oriented Design (OOD)
@@ -49,20 +44,6 @@ I try to stay **regularly active on Stack Overflow**, helping other developers w
 - State management: BLoC, Cubit, Provider
 - Backend development with Laravel
 
-### Data Persistence
-- SharedPreferences, Secure Storage, Hive, SQLite
-- SQL databases and MongoDB
-
----
-
-## Education
-- Mobile App Development Diploma  
-  **Digital Egyptian Builders Initiative (DEPI)** Scholarship
-
-- Bachelor’s Degree in Computer Science  
-  **Faculty of Computers and Information**, Menoufia University
-
----
 
 ## Contact
 
@@ -84,16 +65,5 @@ I try to stay **regularly active on Stack Overflow**, helping other developers w
     <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
 
-  <!-- X -->
-
-  <a href="https://x.com/AliEsmaeil35313" target="_blank">
-    <img src="https://img.shields.io/badge/X-@AliEsmaeil35313-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-
-  <!-- Wuzzuf -->
-
-  <a href="https://wuzzuf.net/me/Ali-Esmaeil-382ffe5b43" target="_blank">
-    <img src="https://img.shields.io/badge/Wuzzuf-Profile-1E88E5?style=for-the-badge" alt="Wuzzuf" />
-  </a>
 </p>
 
