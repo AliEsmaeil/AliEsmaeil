@@ -17,14 +17,6 @@ I regularly contribute to **Stack Overflow**, helping other developers and learn
 
 ---
 
-## Current Focus
-
-* Flutter mobile development
-* Design and architectural patterns (Clean Architecture, MVVM)
-* Backend development with Laravel
-* Writing clean, readable, and maintainable code
-
----
 
 ### Core Concepts
 
@@ -44,6 +36,8 @@ I regularly contribute to **Stack Overflow**, helping other developers and learn
 * State management: BLoC, Cubit, Provider
 * Backend development with Laravel
 
+
+---
 ## Contact
 
 <p align="left">
